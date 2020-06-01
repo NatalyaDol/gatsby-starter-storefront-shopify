@@ -1,4 +1,5 @@
 export default {
+  videoUrl: 'https://www.youtube.com/embed/aJvlxhfic6c',
   title: 'Strona główna',
   'Hi people': 'No cześć',
   'Welcome to your new Gatsby site': 'Witaj na Twojej nowej super stronie Gatsby.',
